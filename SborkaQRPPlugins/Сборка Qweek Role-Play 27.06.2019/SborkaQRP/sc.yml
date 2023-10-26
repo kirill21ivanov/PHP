@@ -1,0 +1,17 @@
+---
+police:
+  score: 1
+pravo:
+  score: 1
+army:
+  score: 1
+vla:
+  score: 1
+  lock: 1
+tbg:
+  score: 1
+  lock: 1
+gsf:
+  score: 1
+  lock: 1
+...

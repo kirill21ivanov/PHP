@@ -1,0 +1,34 @@
+---
+army:
+  nick: rang
+hospital:
+  nick: rang
+massmedia:
+  nick: rang
+police:
+  nick: rang
+  XboxLive: "5"
+  ThisMadCat: 10
+  Cherry: "3"
+pravo:
+  nick: rang
+tbg:
+  nick: rang
+vla:
+  nick: rang
+gsf:
+  nick: rang
+fsb:
+  nick: rang
+agent:
+  nick: rang
+  Cherry: 1
+warn:
+  ThisMadCat: 0
+  Cherry: 0
+  fragig: 1
+  XboxLive: 0
+  SanchoPlay: 0
+nar:
+  nick: rang
+...

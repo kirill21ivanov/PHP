@@ -1,0 +1,38 @@
+---
+ThisMadCat:
+  car: 0
+  fuel: 0
+  lock: open
+  lvl: 1
+  exp: 1
+  zak: 1
+  promo: 0
+  pills: 52
+  apteka: 0
+  gunlic: Нету
+  druglic: Нету
+Cherry:
+  car: 0
+  fuel: 0
+  lock: open
+  lvl: 1
+  exp: 1
+  zak: 1
+  promo: 0
+  pills: 51
+  apteka: 0
+  gunlic: Нету
+  druglic: Есть
+Dima:
+  car: 0
+  fuel: 0
+  lock: open
+  lvl: 1
+  exp: 1
+  zak: 1
+  promo: 0
+  pills: 70
+  apteka: 0
+  gunlic: Нету
+  druglic: Нету
+...

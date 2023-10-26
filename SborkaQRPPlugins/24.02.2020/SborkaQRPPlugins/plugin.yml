@@ -1,0 +1,236 @@
+name: SborkaQRP
+main: ThisMadCat\STMC
+
+api: 3.6.4
+version: 5.7.2
+author: ThisMadCat
+site: vk.com/kivanov20040
+commands:
+ phone:
+  default: true
+ dy:
+  default: true
+ d:
+  default: true
+ rules:
+  default: true
+ menu:
+  default: true
+ visabank:
+  default: true
+ takelic:
+  default: true
+ selldeny:
+  default: true
+ showlic:
+  default: true
+ slic:
+  default: true
+ drugs:
+  default: true
+ healme:
+  default: true
+ shot:
+  default: true
+ showmc:
+  default: true
+ medcart:
+  default: true
+ promo:
+  default: true
+ getpass:
+  default: true
+ mafiacar:
+  default: true
+ gangcar:
+  default: true
+ meryacar:
+  default: true
+ massmediacar:
+  default: true
+ armycar:
+  default: true
+ hospitalcar:
+  default: true
+ policecar:
+  default: true
+ unejeck:
+  default: true
+ unsit:
+  default: true
+ sit:
+  default: true
+ carsystem:
+  default: op
+ car:
+  default: true
+ fuel:
+  default: true
+ unfly:
+  default: true
+ fly:
+  default: true
+ setnick:
+  default: true
+ deny:
+  default: true
+ removitem:
+  default: true
+ accept:
+  default: true
+ gun:
+  default: true
+ invis:
+  default: true
+ uninvis:
+  default: true
+ unwarn:
+  default: true
+ warn:
+  default: true
+ gang:
+  default: true
+ untie:
+  default: true
+ tie:
+  default: true
+ pay:
+  default: true
+ takemon:
+  default: true
+ mon:
+  default: true
+ setmon:
+  default: true
+ sulist:
+  default: true
+ police:
+  default: true
+ lock:
+  default: true
+ unagent:
+  default: true
+ agent:
+  default: true
+ store:
+  default: true
+ mafiakpp:
+  default: true
+ unmakeleader:
+  default: true
+ sms:
+  default: true
+ invite:
+  default: true
+ uninvite:
+  default: true
+ ao:
+  default: true
+ adin:
+  default: true
+ adun:
+  default: true
+ adlvl:
+  default: true
+ rang:
+  default: true
+ leave:
+  default: true
+ army:
+  default: true
+ hospital:
+   default: true
+ heal:
+   default: true
+ gov:
+   default: true
+ ad:
+   default: true
+ adgo:
+   default: true
+ admins:
+   default: true
+ makeleader:
+   default: true
+ akick:
+   default: true
+ aban:
+   default: true
+ unaban:
+   default: true
+ cuff:
+   default: true
+ uncuff:
+   default: true
+ me:
+   default: true
+ s:
+   default: true
+ b:
+   default: true
+ try:
+   default: true
+ do:
+   default: true
+ goto:
+   default: true
+ gotoh:
+   default: true
+ report:
+   default: true
+ ask:
+   default: true
+ stats:
+   default: true
+ check:
+   default: true
+ slap:
+   default: true
+ pass:
+  default: true
+ kpp:
+  default: true
+ su:
+  default: true
+ watch:
+  default: true
+ unwatch:
+  default: true
+ unsu:
+  default: true
+ delro:
+  default: true
+ setro:
+  default: true
+ join:
+  default: true
+ quit:
+  default: true
+ jail:
+  default: op
+ ajail:
+  default: true
+ unjail:
+  default: true
+ arrest:
+  default: true
+ unarrest:
+  default: true
+ srad:
+  default: true
+ crad:
+  default: true
+ suad:
+  default: true
+ sradoff:
+  default: true
+ camera:
+  default: true
+ usedrugs:
+  default: true
+ cc:
+  default: true
+ members:
+  default: true
+ admmem:
+  default: true

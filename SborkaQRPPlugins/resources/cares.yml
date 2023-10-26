@@ -1,0 +1,16 @@
+---
+ThisMadCat:
+  exp: 5
+  lvl: 7
+  car: 0
+  fuel: 0
+  lock: open
+  zak: 9
+  promo: 0
+  pills: 43
+  apteka: 0
+  gunlic: Нету
+  druglic: Нету
+  pol: Нету
+  let: Нету
+...
